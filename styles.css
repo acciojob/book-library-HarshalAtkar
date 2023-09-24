@@ -14,10 +14,10 @@ body{
 }
 
 .book{
-	background-color: #777777 ;
+	color: #777777 ;
 }
 
-button{
+.price-block{
 	color:white;
 	background-color:#2ecc71;
 	border:none;
