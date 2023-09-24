@@ -7,6 +7,9 @@ image{
     align-items: center;
 	justify-content:center:
 }
+.book-library{
+	background-color:#ffffff;
+}
 
 .book{
 	background-color: #777777 ;
